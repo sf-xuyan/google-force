@@ -7,3 +7,14 @@ https://developers.google.com/identity/protocols/oauth2/service-account#java_2
 
 Solution Option2: Auth Provider + Named Credential (per org, not applicable for managed package)
 https://unofficialsf.com/using-google-data-in-flows-authenticating-to-google-from-salesforce/
+
+### API Key
+Use an API key to authenticate each request to Google Maps Platform APIs.
+https://www.youtube.com/watch?v=b1IHR4VWa7U
+
+
+### OAuth Client ID:
+https://salesforcecodex.com/salesforce/integrating-google-api-with-salesforce/
+
+Auth Provider + Named Credential
+[Salesforce | Salesforce and Google Sheets API Integration Using Named Credential, Apex Callout](https://www.youtube.com/watch?v=oHidNt6zPkE)
